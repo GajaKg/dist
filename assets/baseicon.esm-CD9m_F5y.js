@@ -1,4 +1,4 @@
-import{B as p,s as c,O as f}from"./index-ClMgkat8.js";var l=`
+import{B as p,s as c,O as f}from"./index-DgxbqkdL.js";var l=`
 .p-icon {
     display: inline-block;
 }
